@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ArsuLeo.CS.Utils</RootNamespace>
+    <AssemblyName>ArsuLeo.CS.Utils</AssemblyName>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\Collections\NewFolder\" />
+  </ItemGroup>
+
+</Project>
